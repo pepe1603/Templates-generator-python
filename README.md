@@ -6,14 +6,15 @@ Estructura del Proyecto
 
 # Cada proyecto creado tendrá esta estructura:
 
-<nombre_del_proyecto>/
-├── downloads/
-├── README.md
-├── requirements.txt
-└── src/
-    ├── main.py
-    └── modulos/
-        └── modulos_importados_en_main.txt
+```bash
+    <nombre_del_proyecto>/
+    ├── downloads/
+    ├── README.md
+    ├── requirements.txt
+    └── src/
+        ├── main.py
+        └── modulos/
+            └── modulos_importados_en_main.txt
 
 # Comandos Disponibles
 
